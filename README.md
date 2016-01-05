@@ -1,0 +1,2 @@
+# Barter
+This game was used as the first round qualifier for Apprentice 3.0 held at PEC University of Technology, Chandigarh. The game involves using virtual money strategically to build finished commodities from rapidly changing resource prices according to market trends. It connects various virtual brokers, workshops, banks over a LAN and provides thrilling game-play to participants. (Implemented in Java)
